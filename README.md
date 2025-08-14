@@ -4,7 +4,8 @@
 It supports full or partial screen capture, microphone/system audio recording, screenshots, pause/resume, and duration limits.  
 
 ---
-
+![Screen Recorder Pro](./icon.png)
+---
 ## **Features**
 
 - Record full or partial screen
